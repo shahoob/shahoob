@@ -1,16 +1,27 @@
-### Hi there 👋
+# welcome
 
-<!--
-**shahoob/shahoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im shehab tweel
+a `[redacted]` years old boy.
 
-Here are some ideas to get you started:
+## info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dig into the repo
+
+## my habits
+
+- Making a project that does not get development after a short amount of time
+- Making projects that nobody uses it
+
+## my stats
+
+![my github stats](https://github-readme-stats.vercel.app/api?username=shahoob&show_icons=true)
+
+## quick tutorials
+
+### how to get this on your github profile
+
+1. create a repo with the name of your github username (with casing)
+2. make a `README.md` file
+3. do whatever with that file (write it like a normal `README.md` as you would, but also check out some templates, it may help you)
+4. make the repo public (if not public and is private)
+5. done
