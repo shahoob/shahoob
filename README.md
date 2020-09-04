@@ -5,7 +5,7 @@ a `[redacted]` years old boy.
 
 ## info
 
-dig into the repo
+dig into this repo
 
 ## my habits
 
