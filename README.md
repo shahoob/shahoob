@@ -4,14 +4,11 @@ im shehab tweel
 
 a `[redacted]` years old boy.
 
+who might have regreted his old repos.
+
 ## info
 
 dig into this repo
-
-## my habits
-
-- Making a project that does not get development after a short amount of time
-- Making projects that nobody uses it
 
 ## my stats
 
