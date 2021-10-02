@@ -24,9 +24,9 @@ const shehab: Developer = {
     ],
     meta: {
         websites: [
-            new URL('https://shahoobssite.000webhostapp.com/')
+            new URL('https://shehabtweel.ly')
         ],
-        emails: ['shehabtweel@icloud.com'],
+        emails: ['me@shehabtweel.ly'],
         social: {
             youtube: new URL('https://www.youtube.com/channel/UCTCmshjCIA2MSfdWX4Uazeg'),
             instagram: new URL('https://www.instagram.com/shehabtweel'),
