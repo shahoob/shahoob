@@ -6,6 +6,8 @@ a `[redacted]` years old boy.
 
 who might have regreted his old repos.
 
+edit: why do i die from my own cringe i made
+
 ## info
 
 dig into this repo
