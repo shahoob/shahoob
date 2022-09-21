@@ -1,27 +1,46 @@
-# welcome
+```jsonc
+{
+    "isRock": true,
+    "isStupid": null,
+    "isSmart": true,
+    "origin": "space",
+    "habits": [
+        "making stuff",
+        "playing games"
+    ],
+    "languages": {
+        "wellKnown": [
+            "typescript",
+            "javascript",
+            "python"
+        ],
+        "partiallyKnown": [
+            "golang",
+            "arduino"
+        ]
+    },
+    "frameworks": {
+        "wellKnown": ["react"],
+        "partiallyKnown": ["angular", "vue"]
+    },
+    "favorites": {
+        "language": "typescript"
+    },
+    "aFanOf": [
+        "nintendo",
+        "piracy",
+        "fireship", // fireship.io
+        "spongebob",
+        "memes",
+        "exciting tech",
+        "ඞ",
+        "ඞ vr"
+    ],
+    "contact": {
+        "email": "me@shehabtweel.ly",
+        "discord": null
+    }
+}
+```
 
-im shehab tweel
-
-a `[redacted]` years old boy.
-
-who might have regreted his old repos.
-
-edit: why do i die from my own cringe i made
-
-## info
-
-dig into this repo
-
-## my stats
-
-![my github stats](https://github-readme-stats.vercel.app/api?username=shahoob&show_icons=true)
-
-## quick tutorials
-
-### how to get this on your github profile
-
-1. create a repo with the name of your github username (with casing)
-2. make a `README.md` file
-3. do whatever with that file (write it like a normal `README.md` as you would, but also check out some templates, it may help you)
-4. make the repo public (if not public and is private)
-5. done
+[shehabtweel.ly](https://shehabtweel.ly)
