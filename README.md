@@ -42,5 +42,3 @@
     }
 }
 ```
-
-[shehabtweel.ly](https://shehabtweel.ly)
