@@ -37,7 +37,7 @@
         "ඞ vr"
     ],
     "contact": {
-        "email": "me@shehabtweel.ly",
+        "email": "shehabtweel@gmail.com",
         "discord": null
     }
 }
