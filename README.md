@@ -24,7 +24,8 @@
         "partiallyKnown": ["angular", "vue"]
     },
     "favorites": {
-        "language": "typescript"
+        "languages": ["typescript", "python"],
+        "frameworks": ["FastAPI", "Typer"]
     },
     "aFanOf": [
         "nintendo",
@@ -32,13 +33,11 @@
         "fireship", // fireship.io
         "spongebob",
         "memes",
-        "exciting tech",
-        "ඞ",
-        "ඞ vr"
+        "exciting tech"
     ],
     "contact": {
         "email": "shehabtweel@gmail.com",
-        "discord": null
+        "discord": "meteorpower99"
     }
 }
 ```
